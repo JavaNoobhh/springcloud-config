@@ -1,0 +1,2 @@
+# springcloud-config
+为个人用于springcloud的config配置中心练习
